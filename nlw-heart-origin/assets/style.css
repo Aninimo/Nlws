@@ -1,0 +1,105 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+i{
+  font-size: 24px;
+  padding: 5px;
+}
+
+.selo{
+  width: 80px;
+  height: 80px;
+}
+/*=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~*/
+html,
+body{
+  height: 100%;
+  font-family: 'Roboto',sans-serif;
+  --webkit-font-smoothing: antialiased;
+  background: #31343b;
+}
+
+body{
+  --gray: hsl(240,9%,89%);
+  --black: hsl(240,6%,13%);
+  
+  display: grid;
+  place-items: center;
+}
+
+.main{
+  background: url("https://raw.githubusercontent.com/birobirobiro/nlw-heat-origin/9921d73d1444cca7335d2f6aa175723da96664ee/images/background.svg")no-repeat;
+  width: 375px;
+  height: 700px;
+  border-radius: 25px;
+}
+
+span{
+  color: #fff;
+}
+
+/*=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-*/
+#userName{
+  color: #fff;
+}
+
+.avatar{
+  width: 10rem;
+  margin: 11.5rem auto 0;
+  position: relative;
+}
+
+.avatar span{
+  position: absolute;
+  top: -15px;
+  z-index: 1;
+}
+
+.avatar > img{
+  width: 10rem;
+  height: 11.5rem;
+  object-fit: cover;
+  clip-path: polygon(50% 0,100% 25%,100% 75%,50% 100%,0 75%,0 25%);
+}
+
+h1{
+  font-size: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+.container{
+  max-width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+a{
+  color: var(--gray);
+  text-decoration: none;
+  margin-top: 0.25rem;
+  display: flex;
+  gap: 0.75rem;
+  justify-content: center;
+  align-items: center;
+}
+
+#userBio{
+  color: #fff;
+}
+
+p{
+  margin-top: 2rem;
+}
+
+ul{
+  margin-top: 4rem;
+  list-style: none;
+  padding: 0;
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+}
