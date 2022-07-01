@@ -1,6 +1,17 @@
-# Nlw togheter Origin
+# Nlw togheter OriginSix
 
-Projeto desenvolvido durante o evento da
-Rockeseat - Trilha Origin (para iniciantes).
-Stacks: html, css e javascript. Desenvolvimento 
-mobile first com foco em responsividade.
+## Sobre o projeto 💻
+O OriginSix é uma plataforma para divulgação
+ de comercios. O OriginSix foi desenvolvido 
+com o intuito de divulgar os estabelecimentos 
+e os serviços que prestam.
+
+## Layout 
+<img src="https://raw.githubusercontent.com/badeca/OriginSix/main/assets/images/img1.png"/>
+
+## Tecnologias usadas
+<ul>
+  <li>Html</li>
+  <li>Css</li>
+  <li>JavaScript</li>
+</ul
