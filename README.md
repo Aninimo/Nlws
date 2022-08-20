@@ -1,4 +1,3 @@
 # Nlws 🚀
 
-## Pojetos desenvolvidos durante os
- eventos da Nlw Rocketseat
+## Pojetos desenvolvidos durante os eventos da Nlw Rocketseat
