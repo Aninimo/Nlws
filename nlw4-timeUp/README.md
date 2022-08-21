@@ -1,4 +1,6 @@
-# 📌 Sobre o projeto 
+# 🕐 Time Up
+
+## 📌 Sobre o projeto 
 Time Up e uma aplicação para incentivar
 quem fica horas no computador a se
 exercitar, usando o método pomodoro, a 
@@ -8,10 +10,10 @@ pequeno exercício e com adição da
 gamificação na aplicação tudo fica mais 
 divertido.
 
-# 🖌 Layout
+## 🖌 Layout
 <img src='https://raw.githubusercontent.com/RafaelGoulartB/move.it/main/.github/screenshot-1.png'/>
 
-# 💻 Tecnologias usadas 
+## 💻 Tecnologias usadas 
 <ul>
   <li>TypeScript</li>
   <li>React</li>
