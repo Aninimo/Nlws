@@ -1,5 +1,5 @@
 # 📌 Sobre o projeto 
-MoveIt e uma aplicação para incentivar
+Time Up e uma aplicação para incentivar
 quem fica horas no computador a se
 exercitar, usando o método pomodoro, a 
 cada 25 minutos concentrado no trabalho
