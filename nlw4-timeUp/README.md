@@ -10,3 +10,10 @@ divertido.
 
 # 🖌 Layout
 <img src='https://raw.githubusercontent.com/RafaelGoulartB/move.it/main/.github/screenshot-1.png'/>
+
+# 💻 Tecnologias usadas 
+<ul>
+  <li>TypeScript</li>
+  <li>React</li>
+  <li>NextJs</li>
+<ul>
