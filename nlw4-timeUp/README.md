@@ -7,3 +7,6 @@ ele terá uma pausa para efetuar um
 pequeno exercício e com adição da 
 gamificação na aplicação tudo fica mais 
 divertido.
+
+# 🖌 Layout
+<img src='https://raw.githubusercontent.com/RafaelGoulartB/move.it/main/.github/screenshot-1.png'/>
