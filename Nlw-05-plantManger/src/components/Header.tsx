@@ -32,7 +32,7 @@ export function Header(){
                     {userName}
                 </Text>
             </View>
-            <Image source={userImg} style={styles.image}/>
+            <img src='https://avatars.githubusercontent.com/u/75839810?v=4' style={styles.image}/>
         </View>
     )
 }
