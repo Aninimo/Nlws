@@ -9,15 +9,13 @@ import {
     View
 } from 'react-native';
 import { Feather } from '@expo/vector-icons';
-import { useNavigation } from '@react-navigation/core';
 
 import wateringImg from '../assets/watering.png';
 import colors from '../styles/colors';
 import fonts from '../styles/fonts';
 
-export function Welcome(){
-    const navigation = useNavigation();
-
+export function Welcome({ navigation }){
+    
     function handleStart(){
         navigation.navigate('UserIdentification');        
     }
