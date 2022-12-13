@@ -25,14 +25,14 @@ const emojis = {
 }
 
 
-export function Confirmation({ navigation, routes }){
+export function Confirmation({ navigation, route }){
     const {
         title,
         subtitle,
         buttonTitle,
         icon,
         nextScreen
-    } = routes.params as Params;
+    } = route.params as Params;
     
     function handleMoveOn(){
         navigation.navigate(nextScreen);
